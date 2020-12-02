@@ -2,7 +2,7 @@
 Leerjaar 2, gezamenlijk project met Ruimtelijk &amp; media vormgevers
 Het volgende heb ik volledig zelf gedaan:
 
-## het spel:
+## het spel (ALPHA VERSIE):
 Werkt optimaal in Mozilla FireFox
 url: https://firesofdestruction.nl/bewijzenmap/unity/index.html
 
