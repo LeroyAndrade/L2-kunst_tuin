@@ -7,7 +7,7 @@ Werkt optimaal in Mozilla FireFox
 url: https://firesofdestruction.nl/bewijzenmap/unity/index.html
 
 ## Instructie: 
-Lopen met de pijltjes knop en of WASD, verder beweeft de computermuis (op dit moment) de camera
+Lopen met de pijltjes knop en of WASD, verder beweegt de computermuis (op dit moment) de camera
 
 ## C# camera positionering
 https://github.com/LeroyAndrade/L2-kunst_tuin/blob/main/www/Derde_Persoon_Script.cs
