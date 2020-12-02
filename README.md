@@ -36,8 +36,8 @@ Dit is het origineel:
 ![afbeelding_origineel.png](https://github.com/LeroyAndrade/L2-kunst_tuin/blob/main/splash/afbeelding_origineel.png)
 
 
-In iedergeval, kan er worden gelopen en van directie worden gedraaid in mijn tech demo. Ook kan er nu al worden aangegeven, door de opdrachtgever, of dit de goede kant op gaat en misschien hij zelfs nieuwe ideeën toevoegen. Deze worden dan wel als met de MOSCOW methodiek geclassificeerd.
+In iedergeval, kan er worden gelopen en van directie worden gedraaid in mijn tech demo. Ook kan er nu al worden aangegeven, door de opdrachtgever, of dit de goede kant op gaat en misschien zal hij zelfs nieuwe ideeën toevoegen. Deze worden dan wel met de MOSCOW methodiek geclassificeerd, natuurlijk lever ik eerst de kern in op de deadline (dat wat op de debrief staat).
 
-Waar ik nu mee bezig ben is het converteren van het project, naar 3D, zodat het ook met een VR bril en HTC ViVe kan worden bestuurd. Ontzettend leuk project als je het mij vraagt.
+Waar ik nu mee bezig ben is het converteren van het project, naar 3D, zodat het ook met een VR bril en HTC ViVe kan worden bestuurd. Ontzettend leuk project als je het mij vraagt!
 
 Gamedevelopment is er bij gekomen (naast webdevelopment, dit had ik dan ook niet verwacht) en het is ontzettend leuk om te kunnen schakelen van SQL en PHP naar UNITY development en Maya design. Ik vind het ook fijn om gewoon 'even' C# te leren en daar van wat neer te zetten, dit kan ik doen omdat ik de syntax begrijp. Wel is veel nog onbekend met de netwerk bibliotheek die met de programmeertaal meekomt.
