@@ -33,13 +33,13 @@ Na de demo ben ik begonnen aan het object van de kunstenaar (ook in Maya):
 Vervolgens ben ik aan de slag gegaan met uren videos bekijken om dit in Unity werkend te krijgen. Unity werkt dus met C#.
 
 Ondertussen heb ik tot 28 januari om dit project af te ronden. Nu dus eerst, iets dat tastbaars is en verder uitgewerkt kan worden.
-Ik heb er voor gekozen om niet de volledige focus te zetten op het object, maar op het geheel. de details (zoals de mechanica onder de lange loop), zal ik ook via Maya ontwerpen en toevoegen aan het huidige object.
+Ik heb er voor gekozen om niet de volledige focus te zetten op het object, maar op het geheel. de details (zoals de mechanica onder de lange loop), zal ik ook via Maya ontwerpen en toevoegen aan het huidige object. 
 
 Dit is het origineel:
 ![afbeelding_origineel.png](https://github.com/LeroyAndrade/L2-kunst_tuin/blob/main/splash/afbeelding_origineel.png)
 Bron: https://jorisstrijbos.nl/work/sirenen
 
-In iedergeval, kan er worden gelopen en van directie worden gedraaid in mijn tech demo. Ook kan er nu al worden aangegeven, door de opdrachtgever, of dit de goede kant op gaat en misschien zal hij zelfs nieuwe ideeën toevoegen. Deze worden dan wel met de MOSCOW methodiek geclassificeerd, natuurlijk lever ik eerst de kern in op de deadline (dat wat op de debrief staat).
+In iedergeval, kan er worden gelopen en van directie worden gedraaid in mijn tech demo. Ook kan er nu al worden aangegeven, door de opdrachtgever, of dit de goede kant op gaat en misschien zal hij zelfs nieuwe ideeën toevoegen. Deze worden dan wel met de MOSCOW methodiek geclassificeerd, natuurlijk lever ik eerst de kern in op de deadline (dat wat op de debrief staat). Nu kan ik bijvoorbeeld ook vertellen hoeveel tijd ik nodig heb voor ieder onderdeel, omdat ik al weet waat ik tegen aan kan lopen en in de tussentijd extra research kan doen.
 
 Waar ik nu mee bezig ben is het converteren van het project, naar 3D, zodat het ook met een VR bril en HTC ViVe kan worden bestuurd. Ontzettend leuk project als je het mij vraagt!
 
