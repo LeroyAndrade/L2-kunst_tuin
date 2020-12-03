@@ -19,7 +19,7 @@ Wat heb je gedaan:
 Tijdens het eerste leerjaar hebben wij gewerkt met Maya, om polygons leren maken. Die kennis heb ik ingezet om een demo te maken.
 Want na de debrief sprint 0, moet je een werkend (Picasso) resultaat kunnen tonen, in de aankomende sprint(1). 1 sprint kan dus één of twee weken duren en uit meerdere sprints bestaan. In sprint 0 hebben ik informatie gekregen over de kunstenaar en heb ik een demo gemaakt om weer bekend te raken met polygons ontwikkeling, nadat ik de docenten heb gesproken en zij mij de juiste kan op stuurde (stel dat je halverwege het project er achterkomt dat je library outdated is). Daarom is 1 sprint, twee weken, omdat dit compleet buiten onze (website developer) comfortzone is.
 
-Omdat de docenten het prima vonden dat ik een risico nam (en minimaal wordt gestraft als het niet lukt, zolang ik maar communiceer en kan aantonen dat ik echt heb geprobeerd het te laten werken), om mij op iets te storten dat compleet nieuw is en daar ook voor te gaan, heb ik daar dus ook gekozen. Want de andere optie was het maken van een website met informatie over de kunstenaar en zijn werk. 
+Omdat de docenten het prima vonden dat ik een risico nam (en minimaal wordt gestraft als het niet lukt, zolang ik maar communiceer en kan aantonen dat ik echt heb geprobeerd het te laten werken), om mij op iets te storten dat compleet nieuw is en daar ook voor te gaan, heb ik daar dus ook voor gekozen. Want de andere optie was het maken van een website met informatie over de kunstenaar en zijn werk. 
 
 ## Demo: 
 
