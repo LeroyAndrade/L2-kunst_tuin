@@ -37,7 +37,7 @@ Ik heb er voor gekozen om niet de volledige focus te zetten op het object, maar 
 
 Dit is het origineel:
 ![afbeelding_origineel.png](https://github.com/LeroyAndrade/L2-kunst_tuin/blob/main/splash/afbeelding_origineel.png)
-
+Bron: https://jorisstrijbos.nl/work/sirenen
 
 In iedergeval, kan er worden gelopen en van directie worden gedraaid in mijn tech demo. Ook kan er nu al worden aangegeven, door de opdrachtgever, of dit de goede kant op gaat en misschien zal hij zelfs nieuwe ideeën toevoegen. Deze worden dan wel met de MOSCOW methodiek geclassificeerd, natuurlijk lever ik eerst de kern in op de deadline (dat wat op de debrief staat).
 
