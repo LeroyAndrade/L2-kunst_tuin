@@ -5,6 +5,7 @@ Het volgende heb ik volledig zelf gedaan:
 ## het spel (PRE ALPHA VERSIE):
 Werkt optimaal in Mozilla FireFox (een Error: XDR encoding failure, mag worden negeerd door op OK te klikken)
 url: https://firesofdestruction.nl/bewijzenmap/unity/index.html
+Dit spel wordt straks volledig 3D en VR
 
 ## Instructie: 
 Lopen met de pijltjes knop en of WASD, verder beweegt de computermuis (op dit moment) de camera
