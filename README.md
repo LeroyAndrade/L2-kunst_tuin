@@ -33,7 +33,7 @@ Na de demo ben ik begonnen aan het object van de kunstenaar (ook in Maya):
 Vervolgens ben ik aan de slag gegaan met uren videos bekijken om dit in Unity werkend te krijgen. Unity werkt dus met C#.
 
 Ondertussen heb ik tot 28 januari om dit project af te ronden. Nu dus eerst, iets dat tastbaars is en verder uitgewerkt kan worden.
-Ik heb er voor gekozen om niet de volledige focus te zetten op het object, maar op het geheel. de details (zoals de mechanica onder de lange loop), zal ik ook via Maya ontwerpen en toevoegen aan het huidige object. Nu kan ik bijvoorbeeld ook vertellen hoeveel tijd ik nodig heb voor ieder onderdeel, omdat ik al weet waat ik tegen aan kan lopen en in de tussentijd extra research kan doen.
+Ik heb er voor gekozen om niet de volledige focus te zetten op het object, maar op het geheel. de details (zoals de mechanica onder de lange loop), zal ik ook via Maya ontwerpen en toevoegen aan het huidige object. Nu kan ik bijvoorbeeld ook vertellen hoeveel tijd ik nodig heb voor ieder onderdeel, omdat ik al weet waar ik tegen aan kan lopen en hoeveel extra tijd het bijleren in beslag zal nemen.
 
 Dit is het origineel:
 ![afbeelding_origineel.png](https://github.com/LeroyAndrade/L2-kunst_tuin/blob/main/splash/afbeelding_origineel.png)
