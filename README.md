@@ -1,10 +1,11 @@
 # L2-kunst_tuin
 Leerjaar 2, gezamenlijk project met Ruimtelijk &amp; media vormgevers
+
 Het volgende heb ik volledig zelf gedaan:
 
 ## het spel (PRE ALPHA VERSIE):
 Werkt optimaal in Mozilla FireFox (een Error: XDR encoding failure, mag worden negeerd door op OK te klikken)
-url: https://firesofdestruction.nl/bewijzenmap/unity/index.html
+url: http://firesofdestruction.nl/bewijzenmap/unity2019
 Dit spel wordt straks volledig 3D en VR
 
 ## Instructie: 
