@@ -4,7 +4,7 @@ Leerjaar 2, gezamenlijk project met Ruimtelijk &amp; media vormgevers
 Het volgende heb ik volledig zelf gedaan:
 
 ## het spel (PRE ALPHA VERSIE):
-# Waarschuwing, bekijk alléén op mobiel met WI-FI connectie.
+# Waarschuwing, bekijk alléén op mobiel met WI-FI connectie, release build zal lichter zijn in omvang MB.
 
 Werkt optimaal in Mozilla FireFox (een Error: XDR encoding failure, mag worden negeerd door op OK te klikken)
 url: http://firesofdestruction.nl/bewijzenmap/unity2019Build
