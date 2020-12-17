@@ -9,8 +9,12 @@ Het volgende heb ik volledig zelf gedaan:
 # Waarschuwing, bekijk alléén op mobiel met WI-FI connectie, release build zal lichter zijn in omvang MB.
 
 Werkt optimaal in Mozilla FireFox (een Error: XDR encoding failure, mag worden negeerd door op OK te klikken)
+# Build v2
 url: http://firesofdestruction.nl/bewijzenmap/unity2019Build
 Dit spel wordt straks volledig 3D en VR
+
+# Build V1
+url: https://firesofdestruction.nl/bewijzenmap/unity/
 
 ## Instructie: 
 Lopen met de pijltjes knop en of WASD, verder beweegt de computermuis (op dit moment) de camera
