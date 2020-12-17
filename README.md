@@ -44,7 +44,7 @@ Dit is het origineel:
 ![afbeelding_origineel.png](https://github.com/LeroyAndrade/L2-kunst_tuin/blob/main/splash/afbeelding_origineel.png)
 Bron: https://jorisstrijbos.nl/work/sirenen
 
-In iedergeval, kan er worden gelopen en van directie worden gedraaid in mijn tech demo. Ook kan er nu al worden aangegeven, door de opdrachtgever, of dit de goede kant op gaat en misschien zal hij zelfs nieuwe ideeën toevoegen. Deze worden dan wel met de MOSCOW methodiek geclassificeerd, natuurlijk lever ik eerst de kern in op de deadline (dat wat op de debrief staat).
+In iedergeval, kan er (in de verwijderde build) worden gelopen en van directie worden gedraaid in mijn tech demo. Ook kan er nu al worden aangegeven, door de opdrachtgever, of dit de goede kant op gaat en misschien zal hij zelfs nieuwe ideeën toevoegen. Deze worden dan wel met de MOSCOW methodiek geclassificeerd, natuurlijk lever ik eerst de kern in op de deadline (dat wat op de debrief staat).
 
 Waar ik nu mee bezig ben is het converteren van het project, naar 3D, zodat het ook met een VR bril en HTC ViVe kan worden bestuurd. Ontzettend leuk project als je het mij vraagt!
 
