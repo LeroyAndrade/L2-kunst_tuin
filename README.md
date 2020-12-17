@@ -10,10 +10,12 @@ Het volgende heb ik volledig zelf gedaan:
 
 Werkt optimaal in Mozilla FireFox (een Error: XDR encoding failure, mag worden negeerd door op OK te klikken)
 # Build v2
+## VR Google Cardboard Ready
 url: http://firesofdestruction.nl/bewijzenmap/unity2019Build
 Dit spel wordt straks volledig 3D en VR
 
 # Build V1
+## Hier heb ik ufo's gemaakt maakt en mijn eigen personage, om te testen op toekomstige functionaliteiten
 url: https://firesofdestruction.nl/bewijzenmap/unity/
 
 ## Instructie: 
