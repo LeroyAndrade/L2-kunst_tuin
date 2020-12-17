@@ -1,5 +1,7 @@
 # L2-kunst_tuin
 Leerjaar 2, gezamenlijk project met Ruimtelijk &amp; media vormgevers
+Mediavormgeving heeft met een ander mediadeveloper lid, een website gemaakt (die url wordt op een moment getoond).
+Ruimtelijke vormgeving maakt een fysiek ruimte met kunst. Ook dat zal op den duur worden toegevoegd aan deze Github.
 
 Het volgende heb ik volledig zelf gedaan:
 
