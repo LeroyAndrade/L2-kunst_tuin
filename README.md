@@ -5,7 +5,7 @@ Het volgende heb ik volledig zelf gedaan:
 
 ## het spel (PRE ALPHA VERSIE):
 Werkt optimaal in Mozilla FireFox (een Error: XDR encoding failure, mag worden negeerd door op OK te klikken)
-url: http://firesofdestruction.nl/bewijzenmap/unity2019
+url: http://firesofdestruction.nl/bewijzenmap/unity2019Build
 Dit spel wordt straks volledig 3D en VR
 
 ## Instructie: 
