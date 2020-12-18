@@ -54,4 +54,4 @@ In iedergeval, kan er (in de verwijderde build) worden gelopen en van directie w
 
 Waar ik nu mee bezig ben is het converteren van het project, naar 3D, zodat het ook met een VR bril en HTC ViVe kan worden bestuurd. Ontzettend leuk project als je het mij vraagt!
 
-Gamedevelopment is er bij gekomen (naast webdevelopment, dit had ik dan ook niet verwacht) en het is ontzettend leuk om te kunnen schakelen van JavaScript en PHP naar UNITY development en Maya design. Ik vind het ook fijn om gewoon 'even' C# te leren en daar van wat neer te zetten, dit kan ik doen omdat ik de syntax begrijp. Wel is veel nog onbekend met de netwerk bibliotheek die met de programmeertaal meekomt.
+Gamedevelopment is er bij gekomen (naast webdevelopment, dit had ik dan ook niet verwacht) en het is ontzettend leuk om te kunnen schakelen van JavaScript en PHP naar UNITY development en Maya design. Ik vind het ook fijn om gewoon 'even' C# te leren en daar van wat neer te zetten, dit kan ik doen omdat ik de nieuwe code snel kan oppakken en begrijpen. Wel is veel nog onbekend met de netwerk bibliotheek die met de programmeertaal meekomt.
