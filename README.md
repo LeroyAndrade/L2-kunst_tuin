@@ -3,7 +3,16 @@ Leerjaar 2, gezamenlijk project met Ruimtelijk &amp; media vormgevers
 Mediavormgeving heeft met een ander mediadeveloper lid, een website gemaakt (die url wordt op een moment getoond).
 Ruimtelijke vormgeving maakt een fysiek ruimte met kunst. Ook dat zal op den duur worden toegevoegd aan deze Github.
 
-Het volgende heb ik volledig zelf gedaan:
+Het volgende heb ik volledig zelf onderzocht en uitgevoerd:
+
+# Alpha Build v1 (Mozilla Firefox heeft hun VR library wel up to date, alle andere webbrowsers zijn niet geschikt voor (web) VR.
+
+ + kunstwerk uitgewerkt
+ + compatibiliteit voor meerdere smartphones toegevoegd
+ + minus 19MB in vergelijking met pre alpha versie
+ + geluid van het origineel kunstwerk toegevoegd
+ + dia voor gezamenlijke presentatie: https://github.com/LeroyAndrade/L2-kunst_tuin/blob/main/splash/VR.pdf
+ + url: https://firesofdestruction.nl/bewijzenmap/l2-unity-master/vr/index.html
 
 ## het spel (PRE ALPHA VERSIE):
 # Waarschuwing, bekijk alléén op mobiel met WI-FI connectie, release build zal lichter zijn in omvang MB.
