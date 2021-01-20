@@ -9,7 +9,7 @@ Het volgende heb ik volledig zelf onderzocht en uitgevoerd:
 
  + kunstwerk uitgewerkt
  + compatibiliteit voor meerdere smartphones toegevoegd
- + minus 19MB in vergelijking met pre alpha versie
+ + minus 7MB in vergelijking met pre alpha versie
  + geluid van het origineel kunstwerk toegevoegd
  + dia voor gezamenlijke presentatie: https://github.com/LeroyAndrade/L2-kunst_tuin/blob/main/splash/VR.pdf
  + url: https://firesofdestruction.nl/bewijzenmap/l2-unity-master/vr/index.html
