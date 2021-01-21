@@ -5,6 +5,10 @@ Ruimtelijke vormgeving maakt een fysiek ruimte met kunst. Ook dat zal op den duu
 
 Het volgende heb ik volledig zelf onderzocht en uitgevoerd:
 
+[![Video eindpresentatie](https://img.youtube.com/vi/VIDEO-ID/0.jpg)](https://www.youtube.com/watch?v=-kqWYxBjkKk&feature=youtu.be&ab_channel=SomeOne)
+# Eindpresentatie video
+
+
 # 20-1-2021 # Alpha Build v1 (Mozilla Firefox heeft hun VR library wel up to date, alle andere webbrowsers zijn niet geschikt voor (web) VR.
 
  + kunstwerk uitgewerkt
