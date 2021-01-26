@@ -1,7 +1,11 @@
 # L2-kunst_tuin
 Leerjaar 2, gezamenlijk project met Ruimtelijk &amp; media vormgevers
-Mediavormgeving heeft met een ander mediadeveloper lid, een website gemaakt (die url wordt op een moment getoond).
-Ruimtelijke vormgeving maakt een fysiek ruimte met kunst. Ook dat zal op den duur worden toegevoegd aan deze Github.
+Mediavormgeving heeft met een ander mediadeveloper lid, 
+een website gemaakt:
+
+# https://firesofdestruction.nl/bewijzenmap/l2-unity-master/
+
+Ruimtelijke vormgeving maakt een fysiek ruimte met kunst. Ook dat zal op den duur worden toegevoegd aan deze Github (zie content in video presentatie).
 
 Het volgende heb ik volledig zelf onderzocht en uitgevoerd:
 
