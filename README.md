@@ -3,7 +3,7 @@ Leerjaar 2, gezamenlijk project met Ruimtelijk &amp; media vormgevers
 Mediavormgeving heeft met een ander mediadeveloper lid, 
 een website gemaakt:
 
-# https://firesofdestruction.nl/bewijzenmap/l2-unity-master/
+# https://firesofdestruction.nl/bewijzenmap/l2-unity-master/ (mobile only)
 
 Ruimtelijke vormgeving maakt een fysiek ruimte met kunst. Ook dat zal op den duur worden toegevoegd aan deze Github (zie content in video presentatie).
 
